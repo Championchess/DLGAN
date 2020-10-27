@@ -33,7 +33,7 @@ To create conda environment and install dependencies:
 `conda env create -f DLGAN.yaml`
 
 ## Quick Start
-Download the [trained models](???) and place them under 'models/'.
+Download the [trained models](https://disk.pku.edu.cn:443/link/C2880C8EE1CD4F425B4BCCF22C7A4465) and place them under 'models/'.
 
 ## Train the model: 
 For [celebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset, you should download and place all the images under 'celebA/img_align_celebA/', place 'list_attr_celeba.txt' file under 'celebA/'. Then, run
